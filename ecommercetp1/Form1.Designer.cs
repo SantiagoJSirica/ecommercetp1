@@ -47,7 +47,7 @@
             tiendasMI.Name = "tiendasMI";
             tiendasMI.Size = new Size(59, 20);
             tiendasMI.Text = "Tiendas";
-            tiendasMI.Click += new EventHandler(tiendasMI_Click);
+            this.tiendasMI.Click += new System.EventHandler(this.tiendasMI_Click);
             // 
             // usuariosMI
             // 
