@@ -65,6 +65,7 @@
             usuariosMI.Size = new Size(106, 20);
             usuariosMI.Text = "Usuarios Admin.";
             usuariosMI.Click += usuariosMI_Click;
+            logisticaMI.Click += logisticaMI_Click;
             // 
             // ventasMI
             // 

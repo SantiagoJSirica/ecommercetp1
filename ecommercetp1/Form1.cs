@@ -24,5 +24,20 @@ namespace ecommercetp1
             form.Show();
 
         }
+        private void logisticaMI_Click(object sender, EventArgs e)
+        {
+            foreach (Form hijo in this.MdiChildren)
+            {
+                if (hijo is FormLogistica)
+                {
+                    hijo.Activate();
+                    return;
+                }
+            }
+
+            FormLogistica form = new FormLogistica();
+            form.MdiParent = this;
+            form.Show();
+        }
     }
 }
