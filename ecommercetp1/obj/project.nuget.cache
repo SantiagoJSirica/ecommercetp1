@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "OV72/UFhjfo=",
   "success": true,
   "projectFilePath": "C:\\Users\\Celes\\Desktop\\mdi_proyecto1\\ecommercetp1\\ecommercetp1.csproj",
@@ -9,6 +10,13 @@
     "C:\\Users\\Celes\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\Celes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\Celes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+=======
+  "dgSpecHash": "RcXWmSTdlrs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WinterOS\\Documents\\ecommercetp1-master\\ecommercetp1-master\\ecommercetp1\\ecommercetp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WinterOS\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+>>>>>>> 0563edd88036f9fbefd2041238f053773f71cbf1
   ],
   "logs": []
 }
